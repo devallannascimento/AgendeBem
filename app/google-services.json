@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913997977922",
+    "project_id": "agendebem-app",
+    "storage_bucket": "agendebem-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913997977922:android:1191c74aa3551b8c40d0db",
+        "android_client_info": {
+          "package_name": "com.agendebem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8-hdxHlfi5ZaBdjuDQXp2PMKOdmSk9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
